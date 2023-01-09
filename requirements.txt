@@ -7,5 +7,6 @@ mne
 matplotlib
 seaborn
 PyQt5
+scipy
 tqdm
 mne_icalabel
