@@ -2,7 +2,7 @@
 
 This is the repository of a course project in neuroinformatics. The project was about using autoencoder anomaly detection in order to detect button presses in EEG data.
 
-The project was implemented using the ```MNE``` library for the processing of EEG data in python, and TensorFlow for the autoencoder models.
+The project was implemented using the ```MNE``` library for the processing of EEG data in python, and ```TensorFlow``` for the autoencoder models.
 
 ## Setup
 
@@ -25,4 +25,4 @@ The final versions of the modeling pipelines for the (convolutional) autoencoder
 
 The final presentation of this project can be found in [```slides.pdf```](https://github.com/LukasKarner/neuro-project/blob/main/slides.pdf)
 
-[title slide](https://github.com/LukasKarner/neuro-project/blob/main/archive/title.png)
+![title slide](https://github.com/LukasKarner/neuro-project/blob/main/archive/title.png)
